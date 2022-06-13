@@ -1,9 +1,10 @@
 # basic-auth
 [actions](https://github.com/ahmadhelwa/basic-auth/actions)
+
 [pull](https://github.com/ahmadhelwa/basic-auth/pull/1)
 
 
-
+![i can not add app ](./img/heroku.PNG)
 
 ![signup](./img/up.PNG)
 
@@ -14,3 +15,4 @@
 ![trminel](./img/ter.PNG)
 
 ![test](./img/test.PNG)
+
